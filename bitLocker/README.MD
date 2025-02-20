@@ -253,11 +253,6 @@ Get-BitLockerVolume C: | Select-Object *
 - Emergency Recovery Procedures
 - Compliance Requirements Document
 
-### Support Contacts
-- IT Security Team: security@company.com
-- Azure Support: azure-support@company.com
-- Help Desk: helpdesk@company.com
-
 ---
 
 *Note: This document should be reviewed and updated quarterly or when significant changes occur in the environment.*
