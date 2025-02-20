@@ -245,7 +245,7 @@ Get-BitLockerVolume C: | Select-Object *
 ### Change Log
 | Version | Date | Author | Changes |
 |---------|------|--------|----------|
-| 1.0 | 2025-02-20 | Lisandro de Cuba | Initial documentation |
+| 1.0 | 2023-09-11 | Lisandro de Cuba | Initial documentation |
 
 ### Related Documents
 - BitLocker Security Policy
