@@ -2,7 +2,7 @@
 *From On-premises to Azure/Entra ID*
 
 **Version:** 1.0  
-**Last Updated:** February 2025  
+**Last Updated:** November 2024  
 **Author:** Lisandro de Cuba  
 
 ---
