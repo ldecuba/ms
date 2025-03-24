@@ -145,5 +145,3 @@ TIMESTAMP AS OF '2024-03-20 10:00:00';
 - **SQL Endpoints** make it easy to run queries on your **Lakehouse**.
 - **Use Time Travel and aggregate functions** for powerful data analysis.
 
-Want to test a specific query? Open an **Issue** or submit a **Pull Request**! 🚀
-
